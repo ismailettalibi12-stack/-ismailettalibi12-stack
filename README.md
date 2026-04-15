@@ -8,7 +8,7 @@
 
 * 🎓 **First-year Computer Science student**
 * 🧠 Strong interest in **algorithms, problem solving, and low-level systems**
-* ⚙️ Experience with **C/C++, Python, x86 Assembly, and Java**
+* ⚙️ Experience with **C/C++, Python, and x86 Assembly **
 * 🌐 Passionate about **Networking (VLANs, Routing)** and **Web Development**
 * 🛠️ Currently exploring **Linux environments and Software Architecture**
 
@@ -23,7 +23,7 @@
 
 | Languages | Technologies | Tools |
 | :--- | :--- | :--- |
-| C, C++, Python, Java | HTML/CSS, JavaScript, SQL | Git, LaTeX, VirtualBox, Arch Linux |
+| C, C++, Python,  | HTML/CSS, JavaScript, SQL | Git, LaTeX, VirtualBox,  |
 
 ---
 
